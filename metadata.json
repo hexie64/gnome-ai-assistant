@@ -1,0 +1,11 @@
+{
+  "name": "Gnome Ai Assistant",
+  "description": "Gnome Ai Assistant",
+  "uuid": "gnomeaiassistant@satskoweb.com",
+  "extension-id": "gnome-ai-assistant",
+  "settings-schema": "org.gnome.shell.extensions.gnome-ai-assistant",
+  "shell-version": [
+    "46",
+    "47"
+  ]
+}
