@@ -11,6 +11,7 @@
     background-image: url("assets/photo.png");
     mask-image: url("assets/photo.png");
     background-size: 15px;
+    padding: 17px;
     width: 20px;
     height: 20px;
     cursor: pointer;
@@ -20,6 +21,7 @@
     background-image: url("assets/reset.png");
     mask-image: url("assets/reset.png");
     background-size: 15px;
+    padding: 17px;
     width: 20px;
     height: 20px;
     cursor: pointer;
@@ -36,7 +38,7 @@
 }
 
 .chat-scrolling {
-    height: 910px;
+    height: 920px;
     /*max-height: 1000px;*/
     max-width: 400px;
     width: 300px;
@@ -48,6 +50,7 @@
     height: 20px !important;
     border-radius: 5px;
     max-width: 300px;
+    margin-bottom: 15px;
     margin-left: 15px;
     max-height: 400px;
     overflow: hidden;
